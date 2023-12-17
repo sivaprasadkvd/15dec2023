@@ -1,0 +1,14 @@
+C:\Users\kvdsp\source\repos\c# programs and patterns\sum of cubes\bin\Debug\net8.0\sum of cubes.exe
+C:\Users\kvdsp\source\repos\c# programs and patterns\sum of cubes\bin\Debug\net8.0\sum of cubes.deps.json
+C:\Users\kvdsp\source\repos\c# programs and patterns\sum of cubes\bin\Debug\net8.0\sum of cubes.runtimeconfig.json
+C:\Users\kvdsp\source\repos\c# programs and patterns\sum of cubes\bin\Debug\net8.0\sum of cubes.dll
+C:\Users\kvdsp\source\repos\c# programs and patterns\sum of cubes\bin\Debug\net8.0\sum of cubes.pdb
+C:\Users\kvdsp\source\repos\c# programs and patterns\sum of cubes\obj\Debug\net8.0\sum of cubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvdsp\source\repos\c# programs and patterns\sum of cubes\obj\Debug\net8.0\sum of cubes.AssemblyInfoInputs.cache
+C:\Users\kvdsp\source\repos\c# programs and patterns\sum of cubes\obj\Debug\net8.0\sum of cubes.AssemblyInfo.cs
+C:\Users\kvdsp\source\repos\c# programs and patterns\sum of cubes\obj\Debug\net8.0\sum of cubes.csproj.CoreCompileInputs.cache
+C:\Users\kvdsp\source\repos\c# programs and patterns\sum of cubes\obj\Debug\net8.0\sum of cubes.dll
+C:\Users\kvdsp\source\repos\c# programs and patterns\sum of cubes\obj\Debug\net8.0\refint\sum of cubes.dll
+C:\Users\kvdsp\source\repos\c# programs and patterns\sum of cubes\obj\Debug\net8.0\sum of cubes.pdb
+C:\Users\kvdsp\source\repos\c# programs and patterns\sum of cubes\obj\Debug\net8.0\sum of cubes.genruntimeconfig.cache
+C:\Users\kvdsp\source\repos\c# programs and patterns\sum of cubes\obj\Debug\net8.0\ref\sum of cubes.dll
